@@ -52,11 +52,11 @@ We welcome contributions! If you know of legitimate opportunities that should be
 
 ## 📧 Contact
 
-- Email: info@learn-org.com
+- Email: learnorganistion@gmail.com
 - Website: [Your website URL]
 
 ## 📄 License
 
-[Your chosen license]
+MIT
 
 ---
